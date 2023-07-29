@@ -1,0 +1,43 @@
+{
+  "name": "vue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "serve-QA": "vue-cli-service serve --mode QA",
+    "build": "vue-cli-service build",
+    "build-QA": "vue-cli-service build --mode QA"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "@web-types/vuetify": "^2.0.15-1",
+    "copy-webpack-plugin": "^5.1.1",
+    "moment": "^2.29.1",
+    "print-js": "^1.6.0",
+    "v-mask": "^2.3.0",
+    "v-money": "^0.8.1",
+    "vue": "^2.6.14",
+    "vue-router": "^3.5.1",
+    "vue2-storage": "^5.0.0",
+    "vuetify": "^2.6.0",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-pwa": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "@vue/eslint-config-standard": "^6.1.0",
+    "sass": "^1.32.7",
+    "sass-loader": "^12.0.0",
+    "vue-cli-plugin-vuetify": "~2.4.8",
+    "vue-template-compiler": "^2.6.14",
+    "vuetify-loader": "^1.7.0",
+    "worker-plugin": "^5.0.1"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

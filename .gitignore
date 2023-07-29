@@ -1,0 +1,11 @@
+
+.DS_Store
+.idea
+node_modules/
+vue/package-lock.json
+vue/dist/
+*/Logs/
+aspnet-core/src/BBL.Web.Host/App_Data/Logs
+.vs/bbl-gestao/v17/.wsuo
+aspnet-core/src/BBL.Web.Host/appsettings.Staging.json
+aspnet-core/src/BBL.Web.Host/appsettings.json
