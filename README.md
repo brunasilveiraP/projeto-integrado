@@ -1,5 +1,5 @@
 <h1>Pontifícia Universidade Católica de Minas Gerais</h1>
-<h2>Projeto Integrado - Engenharia de Software (2022)</h2>
+<h2>Engenharia de Software (2022)</h2>
 <h2>BBL Gestão</h2>
 
 <h3>Aplicação Web</h3>
